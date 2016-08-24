@@ -1,0 +1,14 @@
+layout_spectrum: 0.9489796
+typography_spectrum: 0.7334333
+color:
+  saturation: 0.8856068
+  brandStrength: 0.767077
+  lightness: 0.08861437
+  rhythmicContrast: 0.01651182
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Digital Bod
